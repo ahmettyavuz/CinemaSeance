@@ -1,0 +1,16 @@
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\EntityTypeConfigurations.dll.config
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\EntityTypeConfigurations.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\EntityTypeConfigurations.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\Cinema.Entity.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\EntityFramework.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\Framework.Core.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\Cinema.Enums.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\Cinema.Entity.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\EntityFramework.xml
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\bin\Debug\Cinema.Enums.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\obj\Debug\Cinema.EntityTypeConfigurations.csprojAssemblyReference.cache
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\obj\Debug\Cinema.EntityTypeConfigurations.csproj.CopyComplete
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\obj\Debug\EntityTypeConfigurations.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.EntityTypeConfigurations\obj\Debug\EntityTypeConfigurations.pdb

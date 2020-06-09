@@ -1,0 +1,11 @@
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\bin\Debug\Cinema.DAL.Abstract.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\bin\Debug\Cinema.DAL.Abstract.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\bin\Debug\Cinema.Entity.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\bin\Debug\Framework.Core.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\bin\Debug\Cinema.Enums.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\bin\Debug\Cinema.Entity.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\bin\Debug\Cinema.Enums.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\obj\Debug\Cinema.DAL.Abstract.csprojAssemblyReference.cache
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\obj\Debug\Cinema.DAL.Abstract.csproj.CopyComplete
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\obj\Debug\Cinema.DAL.Abstract.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DAL.Abstract\obj\Debug\Cinema.DAL.Abstract.pdb

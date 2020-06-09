@@ -1,0 +1,8 @@
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DTO\obj\Debug\Cinema.DTO.csprojAssemblyReference.cache
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DTO\bin\Debug\Cinema.DTO.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DTO\bin\Debug\Cinema.DTO.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DTO\bin\Debug\Cinema.Enums.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DTO\bin\Debug\Cinema.Enums.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DTO\obj\Debug\Cinema.DTO.csproj.CopyComplete
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DTO\obj\Debug\Cinema.DTO.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.DTO\obj\Debug\Cinema.DTO.pdb

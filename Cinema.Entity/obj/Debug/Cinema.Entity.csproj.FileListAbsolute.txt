@@ -1,0 +1,9 @@
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\bin\Debug\Cinema.Entity.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\bin\Debug\Cinema.Entity.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\bin\Debug\Cinema.Enums.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\bin\Debug\Framework.Core.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\bin\Debug\Cinema.Enums.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\obj\Debug\Cinema.Entity.csprojAssemblyReference.cache
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\obj\Debug\Cinema.Entity.csproj.CopyComplete
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\obj\Debug\Cinema.Entity.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Entity\obj\Debug\Cinema.Entity.pdb

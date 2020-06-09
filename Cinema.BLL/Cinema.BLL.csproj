@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DCC1BDDB-8C9E-4E26-9DD8-13229766EA82}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Cinema.BLL</RootNamespace>
+    <AssemblyName>Cinema.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Framework.Core">
+      <HintPath>..\DLLs\Framework.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CastController.cs" />
+    <Compile Include="DirectorController.cs" />
+    <Compile Include="MovieController.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SeanceController.cs" />
+    <Compile Include="TheaterController.cs" />
+    <Compile Include="UserController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Cinema.DAL.Abstract\Cinema.DAL.Abstract.csproj">
+      <Project>{F90D52B8-785B-4569-80AB-B0ECC6AC1C5D}</Project>
+      <Name>Cinema.DAL.Abstract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cinema.DAL\Cinema.DAL.csproj">
+      <Project>{36FAFB54-646C-4750-9E9B-5510F8A3B893}</Project>
+      <Name>Cinema.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cinema.DTO\Cinema.DTO.csproj">
+      <Project>{4D1B0CC3-6970-44AA-95FF-DD8913357106}</Project>
+      <Name>Cinema.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cinema.Entity\Cinema.Entity.csproj">
+      <Project>{9536C39B-D478-4C60-AAB6-85E44163E3A8}</Project>
+      <Name>Cinema.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Cinema.Enums\Cinema.Enums.csproj">
+      <Project>{22dfe546-a5b4-46c4-9d53-160ce546e8b4}</Project>
+      <Name>Cinema.Enums</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

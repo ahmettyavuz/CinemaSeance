@@ -1,0 +1,4 @@
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Enums\bin\Debug\Cinema.Enums.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Enums\bin\Debug\Cinema.Enums.pdb
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Enums\obj\Debug\Cinema.Enums.dll
+C:\Users\Ahmet\Source\Workspaces\CinemaSeance\CinemaNTier\CinemaNTier\Cinema.Enums\obj\Debug\Cinema.Enums.pdb
