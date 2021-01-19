@@ -11,7 +11,7 @@ namespace Cinema.DAL
 {
     public class CinemaDbContext:DbContext
     {
-        public CinemaDbContext():base("Data Source=213.14.169.11;initial catalog=CinemaDB;user id=bak402;password=Alaf9090;")
+        public CinemaDbContext():base("Data Source=xxx.xx.xxx.xx;initial catalog=CinemaDB;user id=BlaBlaBla;password=anythingblablabla;")
         {
             Database.SetInitializer<CinemaDbContext>(new DropCreateDatabaseIfModelChanges<CinemaDbContext>());
         }
